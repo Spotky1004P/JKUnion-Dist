@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/MCRun/MCRun-Dist/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "M.C Run",
+    "description": "M.C Run 서버 | 1.18.2",
+    "icon": "https://cdn.discordapp.com/app-assets/1213656737194840094/1213657278876749855.png",
+    "address": "mcrun.kr",
+    "discord": {
+      "shortId": "픽셀토피아",
+      "largeImageText": "픽셀토피아",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "40.2.0"
+  },
+  "untrackedFiles": []
+}
