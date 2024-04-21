@@ -401,6 +401,17 @@
             "url": "https://github.com/Spotky1004P/MCRun-DIst/raw/main/servers/MCRun-1.18.2/libraries/OptiFine_1.18.2_HD_U_H6_MOD.jar",
             "MD5": "fc2025fa4409eb4abb84975c8d89b4f3"
           }
+        },
+        {
+          "id": "BSL_v8.0.01.zip",
+          "name": "BSL_v8.0.01.zip",
+          "type": "File",
+          "artifact": {
+            "size": 913228,
+            "url": "https://github.com/Spotky1004P/MCRun-DIst/raw/main/servers/MCRun-1.18.2/files/shaderpacks/BSL_v8.0.01.zip",
+            "MD5": "f148da27853e4ebe51504a9d1dc1d8bd",
+            "path": "shaderpacks/BSL_v8.0.01.zip"
+          }
         }
       ]
     }
