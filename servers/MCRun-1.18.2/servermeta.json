@@ -7,8 +7,8 @@
     "icon": "https://cdn.discordapp.com/app-assets/1213656737194840094/1213657278876749855.png",
     "address": "mcrun.kr",
     "discord": {
-      "shortId": "픽셀토피아",
-      "largeImageText": "픽셀토피아",
+      "shortId": "M.C Run",
+      "largeImageText": "M.C Run",
       "largeImageKey": "icon"
     },
     "mainServer": true,

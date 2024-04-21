@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1213656737194840094",
-    "smallImageText": "픽셀토피아",
+    "smallImageText": "M.C Run",
     "smallImageKey": "icon"
   },
   "servers": [
@@ -16,8 +16,8 @@
       "address": "mcrun.kr",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "픽셀토피아",
-        "largeImageText": "픽셀토피아",
+        "shortId": "M.C Run",
+        "largeImageText": "M.C Run",
         "largeImageKey": "icon"
       },
       "mainServer": true,
